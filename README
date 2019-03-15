@@ -1,6 +1,1 @@
-echo "# Nghien-cuu-khoa-hoc" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Thanh090/Nghien-cuu-khoa-hoc.git
-git push -u origin master
+
